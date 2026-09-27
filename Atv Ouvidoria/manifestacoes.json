@@ -1,0 +1,242 @@
+[
+  {
+    "id": "M001",
+    "data": "2024-05-02",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A calçada da Rua das Palmeiras está totalmente destruída, com pedaços de concreto soltos que já causaram quedas de idosos."
+  },
+  {
+    "id": "M002",
+    "data": "2024-05-02",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Há um acúmulo de lixo há mais de dez dias na esquina da Rua Tiradentes com a Rua Sete de Setembro, atraindo ratos e insetos."
+  },
+  {
+    "id": "M003",
+    "data": "2024-05-03",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Existe um buraco enorme na Av. Brasil, próximo ao número 1200, que já causou danos a pelo menos três veículos essa semana."
+  },
+  {
+    "id": "M004",
+    "data": "2024-05-03",
+    "categoria_oficial": "segurança",
+    "texto": "Moradores relatam aumento de assaltos à noite na Praça Central, pois não há nenhum policiamento após as 20h."
+  },
+  {
+    "id": "M005",
+    "data": "2024-05-04",
+    "categoria_oficial": "saúde",
+    "texto": "Sou moradora do bairro Vila Esperança e venho relatar uma situação que se arrasta há mais de dois meses no posto de saúde da região. Toda vez que preciso agendar uma consulta com o clínico geral, sou informada de que não há vagas disponíveis e que devo retornar em outra data. Já perdi a conta de quantas vezes fui até a unidade de madrugada para conseguir uma ficha e mesmo assim não fui atendida. Além disso, quando finalmente consigo uma consulta, o médico atende de forma muito rápida, sem tempo para explicar o diagnóstico ou tirar dúvidas. Isso é ainda mais grave para os idosos do bairro, que dependem do posto para acompanhamento de pressão alta e diabetes. Peço que a Ouvidoria tome providências urgentes, pois a situação está colocando em risco a saúde de toda a comunidade."
+  },
+  {
+    "id": "M006",
+    "data": "2024-05-04",
+    "categoria_oficial": "educação",
+    "texto": "A escola municipal do bairro Jardim Primavera está sem professor de matemática há três semanas e os alunos ficam sem aula nesse horário."
+  },
+  {
+    "id": "M007",
+    "data": "2024-05-05",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O sistema de drenagem da Rua dos Ipês não funciona, e a rua fica completamente alagada sempre que chove com mais intensidade."
+  },
+  {
+    "id": "M008",
+    "data": "2024-05-05",
+    "categoria_oficial": "saúde",
+    "texto": "O posto de saúde do bairro Jardim das Flores está há duas semanas sem médico, os pacientes estão sendo mandados embora sem atendimento."
+  },
+  {
+    "id": "M009",
+    "data": "2024-05-06",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Uma indústria próxima ao Rio Verde está despejando um líquido com cheiro forte diretamente no curso d'água, matando os peixes da região."
+  },
+  {
+    "id": "M010",
+    "data": "2024-05-06",
+    "categoria_oficial": "segurança",
+    "texto": "Falta iluminação na Travessa das Acácias, o que tem facilitado furtos de fiação elétrica durante a madrugada."
+  },
+  {
+    "id": "M011",
+    "data": "2024-05-07",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Escrevo para relatar um problema ambiental grave que vem afetando o bairro Recanto Verde há praticamente um ano. Uma empresa de reciclagem instalada no fundo do bairro tem queimado resíduos plásticos a céu aberto, geralmente durante a madrugada, provavelmente para evitar fiscalização. A fumaça preta e o cheiro forte de plástico queimado invadem as casas vizinhas, causando falta de ar, tosse e irritação nos olhos de crianças e idosos. Já registramos boletim de ocorrência duas vezes, mas nada foi feito até o momento. Os moradores estão organizando um abaixo-assinado e pedem que a Secretaria de Meio Ambiente realize uma vistoria com urgência, pois tememos consequências graves para a saúde respiratória de toda a vizinhança."
+  },
+  {
+    "id": "M012",
+    "data": "2024-05-07",
+    "categoria_oficial": "educação",
+    "texto": "A merenda escolar da Escola Estadual Monteiro Lobato está atrasando quase toda semana, e as crianças ficam sem lanche até o meio-dia."
+  },
+  {
+    "id": "M013",
+    "data": "2024-05-08",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O semáforo do cruzamento da Av. Central com a Rua 25 de Março está quebrado há cinco dias, causando engarrafamentos e risco de acidentes."
+  },
+  {
+    "id": "M014",
+    "data": "2024-05-08",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Há um poste de iluminação queimado na Rua das Camélias há mais de um mês, deixando o quarteirão inteiro na escuridão à noite."
+  },
+  {
+    "id": "M015",
+    "data": "2024-05-09",
+    "categoria_oficial": "saúde",
+    "texto": "A fila para exames de imagem no hospital municipal está com mais de quatro meses de espera, o que atrasa diagnósticos importantes."
+  },
+  {
+    "id": "M016",
+    "data": "2024-05-09",
+    "categoria_oficial": "segurança",
+    "texto": "Câmeras de vigilância da Praça da Matriz estão quebradas há meses, e a Guarda Municipal não tem feito rondas regulares no local."
+  },
+  {
+    "id": "M017",
+    "data": "2024-05-10",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O asfalto está todo esburacado na avenida principal do bairro, especialmente perto do posto de gasolina, representando risco para motociclistas."
+  },
+  {
+    "id": "M018",
+    "data": "2024-05-10",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Uma área de mata nativa próxima ao córrego do bairro Boa Vista está sendo desmatada ilegalmente para construção de um loteamento."
+  },
+  {
+    "id": "M019",
+    "data": "2024-05-11",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Venho por meio desta relatar um problema sério de infraestrutura que afeta diretamente a mobilidade de centenas de moradores do bairro São José. A ponte que liga o bairro ao centro da cidade apresenta rachaduras visíveis na estrutura de concreto há pelo menos seis meses, e recentemente pedaços do guarda-corpo começaram a se soltar, caindo no rio abaixo. Motoristas e pedestres continuam utilizando a ponte diariamente por falta de alternativa de acesso, mesmo sabendo do risco. Já solicitamos uma vistoria técnica por telefone duas vezes, mas ninguém da prefeitura compareceu ao local até agora. Pedimos com urgência uma avaliação estrutural e, se necessário, a interdição preventiva da ponte antes que ocorra um acidente grave, já que muitas crianças passam por ali a caminho da escola."
+  },
+  {
+    "id": "M020",
+    "data": "2024-05-11",
+    "categoria_oficial": "educação",
+    "texto": "O telhado da Escola Municipal Castro Alves está com goteiras em várias salas de aula, molhando o material dos alunos quando chove."
+  },
+  {
+    "id": "M021",
+    "data": "2024-05-12",
+    "categoria_oficial": "segurança",
+    "texto": "Há relatos frequentes de tráfico de drogas em uma esquina próxima à praça do bairro Nova Aliança, mesmo com moradores denunciando várias vezes."
+  },
+  {
+    "id": "M022",
+    "data": "2024-05-12",
+    "categoria_oficial": "saúde",
+    "texto": "Falta atendimento no PSF da Vila Nova, os moradores chegam de madrugada e não conseguem ficha para consulta."
+  },
+  {
+    "id": "M023",
+    "data": "2024-05-13",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A ciclovia da Avenida Beira-Rio está com o pavimento rachado em vários trechos, tornando perigoso o uso por ciclistas."
+  },
+  {
+    "id": "M024",
+    "data": "2024-05-13",
+    "categoria_oficial": "meio ambiente",
+    "texto": "O esgoto a céu aberto na Rua das Orquídeas continua sem solução há meses, exalando mau cheiro e atraindo mosquitos transmissores de doenças."
+  },
+  {
+    "id": "M025",
+    "data": "2024-05-14",
+    "categoria_oficial": "educação",
+    "texto": "A creche municipal do bairro Alto da Serra está com lista de espera de mais de 200 crianças e não há previsão de novas vagas."
+  },
+  {
+    "id": "M026",
+    "data": "2024-05-14",
+    "categoria_oficial": "segurança",
+    "texto": "Preciso relatar um problema recorrente de segurança pública no bairro Vila das Rosas que já dura aproximadamente oito meses. Durante as noites de sexta e sábado, grupos de motociclistas realizam manobras perigosas e disputas de velocidade na avenida principal, com barulho excessivo de motores modificados que impede os moradores de dormirem até altas horas. Além do incômodo sonoro, já houve pelo menos dois acidentes registrados, um deles com uma criança que atravessava a rua. A Guarda Municipal foi acionada diversas vezes pelo número de emergência, porém a viatura raramente chega antes que os grupos já tenham se dispersado. Solicitamos o reforço do policiamento nos finais de semana e a instalação de lombadas eletrônicas para coibir essas práticas perigosas."
+  },
+  {
+    "id": "M027",
+    "data": "2024-05-15",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Falta sinalização de trânsito na rotatória do bairro Industrial, o que tem causado diversos quase-acidentes entre carros e pedestres."
+  },
+  {
+    "id": "M028",
+    "data": "2024-05-15",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Queimadas irregulares em um terreno baldio da Rua dos Girassóis estão gerando fumaça constante que prejudica moradores com problemas respiratórios."
+  },
+  {
+    "id": "M029",
+    "data": "2024-05-16",
+    "categoria_oficial": "infraestrutura",
+    "texto": "Diversos postes de luz estão apagados na Alameda dos Cravos há semanas, deixando toda a via sem qualquer iluminação noturna."
+  },
+  {
+    "id": "M030",
+    "data": "2024-05-16",
+    "categoria_oficial": "educação",
+    "texto": "Não há transporte escolar para as crianças da zona rural que estudam na escola central, obrigando muitas famílias a caminharem longas distâncias."
+  },
+  {
+    "id": "M031",
+    "data": "2024-05-17",
+    "categoria_oficial": "infraestrutura",
+    "texto": "A lâmpada da praça central está queimada há dias, deixando o espaço de convivência escuro e pouco convidativo à noite."
+  },
+  {
+    "id": "M032",
+    "data": "2024-05-17",
+    "categoria_oficial": "segurança",
+    "texto": "A guarita da Guarda Municipal na entrada do bairro Parque das Águas está desativada há meses, sem nenhuma justificativa da prefeitura."
+  },
+  {
+    "id": "M033",
+    "data": "2024-05-18",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Animais silvestres têm sido encontrados feridos próximos à rodovia após o desmatamento de uma área de preservação nas proximidades."
+  },
+  {
+    "id": "M034",
+    "data": "2024-05-18",
+    "categoria_oficial": "educação",
+    "texto": "Gostaria de registrar uma reclamação a respeito da estrutura física da Escola Municipal Professora Alzira Soares, que atende cerca de 600 crianças no bairro Boa Esperança. Há mais de um ano os banheiros dos alunos apresentam vazamentos constantes, o piso fica permanentemente molhado e o cheiro de esgoto se espalha pelos corredores próximos. Além disso, metade das descargas não funciona corretamente, o que tem levado muitos pais a relatarem que os filhos evitam ir ao banheiro durante o período em que estão na escola. Já foi aberto um protocolo junto à Secretaria de Educação há oito meses, mas nenhuma obra de reparo foi realizada até hoje. Considerando que se trata de uma questão de saúde e dignidade das crianças, solicitamos providências imediatas da administração municipal."
+  },
+  {
+    "id": "M035",
+    "data": "2024-05-19",
+    "categoria_oficial": "saúde",
+    "texto": "A farmácia básica municipal está sem estoque de medicamentos para hipertensão há mais de um mês, prejudicando pacientes crônicos."
+  },
+  {
+    "id": "M036",
+    "data": "2024-05-19",
+    "categoria_oficial": "infraestrutura",
+    "texto": "O parquinho da praça do bairro Vila Rica está com brinquedos quebrados e enferrujados, oferecendo risco às crianças que brincam ali."
+  },
+  {
+    "id": "M037",
+    "data": "2024-05-20",
+    "categoria_oficial": "segurança",
+    "texto": "Cabos de energia estão expostos em um poste caído na Rua das Margaridas, representando risco elétrico grave para pedestres."
+  },
+  {
+    "id": "M038",
+    "data": "2024-05-20",
+    "categoria_oficial": "saúde",
+    "texto": "O atendimento odontológico do posto de saúde central foi suspenso sem aviso prévio e os pacientes não sabem quando será retomado."
+  },
+  {
+    "id": "M039",
+    "data": "2024-05-21",
+    "categoria_oficial": "meio ambiente",
+    "texto": "Um córrego que corta o bairro Vila Verde está completamente poluído com óleo e detritos de uma oficina mecânica clandestina próxima."
+  },
+  {
+    "id": "M040",
+    "data": "2024-05-21",
+    "categoria_oficial": "educação",
+    "texto": "A biblioteca da Escola Municipal Rui Barbosa está fechada há dois meses por falta de um responsável para administrar o espaço."
+  }
+]
